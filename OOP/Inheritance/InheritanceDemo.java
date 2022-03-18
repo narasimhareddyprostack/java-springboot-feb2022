@@ -27,7 +27,7 @@ class Test{
 			System.out.println(c1.getAmount());
 		*/
 		/*
-		Parent p2 = new Child();
+			Parent p2 = new Child();
 			System.out.println(p2.amount);
 			System.out.println(p2.getAmount());
 		*/
