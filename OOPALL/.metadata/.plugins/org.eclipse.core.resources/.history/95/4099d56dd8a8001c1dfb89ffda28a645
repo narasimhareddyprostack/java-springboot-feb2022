@@ -1,0 +1,5 @@
+package oop;
+
+public class Savings_Account extends Account {
+
+}
