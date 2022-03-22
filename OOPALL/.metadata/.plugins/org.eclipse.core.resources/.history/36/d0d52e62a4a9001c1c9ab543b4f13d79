@@ -1,0 +1,14 @@
+package overriding;
+
+public class Demo {
+
+	public static void main(String[] args) {
+		Parent p1 = new Child();
+		p1.m1();
+		
+		Child c1 = new Child();
+		Parent p2 = new Parent();
+		//Child c2 = new Parent();
+	}
+
+}
