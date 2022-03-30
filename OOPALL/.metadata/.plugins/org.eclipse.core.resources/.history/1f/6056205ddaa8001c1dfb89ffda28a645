@@ -1,5 +1,0 @@
-package oop;
-
-public abstract class Bank {
-
-}
