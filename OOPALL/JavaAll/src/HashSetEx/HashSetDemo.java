@@ -24,7 +24,7 @@ public class HashSetDemo {
 		//a.addAll(b);//union
 		//a.retainAll(b);//intersection
 		//a.contains(b); // A
-		a.removeAll(b); only A
+		a.removeAll(b); //only A
 		System.out.println(a);
 		
 	}
